@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  Founding Product Engineer&nbsp;@&nbsp;<b>Sentry Labs</b>&nbsp;&nbsp;&middot;&nbsp;&nbsp;Ex Sr. SWE&nbsp;@&nbsp;<b>Kalam Labs (YC S21)</b><br/>
-  Backend &nbsp;&middot;&nbsp; Embedded Firmware &nbsp;&middot;&nbsp; Drone Systems &nbsp;&middot;&nbsp; Space Situational Awareness
+  Founding Product Engineer&nbsp;@&nbsp;<b>Sentry Labs</b>&nbsp;&nbsp;&middot;&nbsp;&nbsp;Prev. Founding Engineer&nbsp;@&nbsp;<b>Kalam Labs (YC S21)</b><br/>
+  Backend &nbsp;&middot;&nbsp; Embedded Firmware &nbsp;&middot;&nbsp; Drone Systems &nbsp;
 </p>
 
 <p align="center">
@@ -21,14 +21,12 @@
 I build end-to-end systems across the full stack, from microservices handling **10k+ MAU**, to embedded firmware running on custom flight controllers at **100,000 ft**. Currently architecting an indigenous **Space Situational Awareness** platform for the Indian Air Force while commercializing ESP32 drone/plane kits with in-house hardware.
 
 <p>
-  <img src="https://img.shields.io/badge/5k%2B_MAU-shipped-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/10k%2B_MAU-shipped-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/%E2%89%88%E2%82%B920L_MRR-driven-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/%241.5M_Seed-founding_team-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/100%2C000_ft-UAV_deployed-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/50k%2B_downloads-10%2B_titles-58A6FF?style=flat-square" />
 </p>
-
-> *Build from scratch. Ship fast. Learn everything.*
 
 ---
 
@@ -92,7 +90,7 @@ I build end-to-end systems across the full stack, from microservices handling **
 |---------|-------|------------|
 | **SSA Platform** | Java 21, Orekit, Spring Boot, CesiumJS | IAF proposal — surveillance, conjunction & re-entry analysis |
 | **ESP32 Drone / Plane** | C, FreeRTOS, ESP32, BMI270 | In-house FC + firmware + Android/iOS controller apps |
-| **Kalam Labs Platform** | NestJS, TypeScript, PostgreSQL, Unity | EdTech metaverse; 5k+ MAU, ≈₹20L MRR |
+| **Kalam Labs Platform** | NestJS, TypeScript, PostgreSQL, Unity | EdTech metaverse; 10k+ MAU, ≈₹20L MRR |
 | **ArduPilot UAV Retrieval** | Lua, ArduPilot, Gazebo | Autonomous return-home; dynamic waypointing vs. wind/battery |
 | **Hyper-Casual Titles** | Unity, C# | 10+ titles; 50k+ cumulative downloads |
 
