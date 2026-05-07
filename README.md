@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Deepak+Suyal;Backend+%7C+Embedded+%7C+Aerospace;Building+things+from+scratch." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Deepak+Suyal;Backend%2C+Simulation+%26+UAV+Systems;Building+Across+Software+%2B+Hardware" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -12,6 +12,23 @@
   <a href="https://d-suyal.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
   <a href="mailto:deepak.suyal.9083@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://leetcode.com/D-Suyal"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+</p>
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=d-suyal&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-suyal&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-suyal&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/D-Suyal?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -104,24 +121,7 @@ I build end-to-end systems across the full stack, from microservices handling **
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=d-suyal&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-suyal&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-suyal&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/D-Suyal?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
-</p>
-
----
-
-### 🔗 Connect
+###  Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/d-suyal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
