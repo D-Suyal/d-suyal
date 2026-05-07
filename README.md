@@ -28,10 +28,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/d-suyal/d-suyal/output/contribution-grid-dark.svg" alt="GitHub Contribution Graph" />
-</p>
-
-<p align="center">
   <img src="https://leetcard.jacoblin.cool/D-Suyal?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </p>
 
