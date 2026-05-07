@@ -20,7 +20,7 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=d-suyal&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-suyal&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-suyal&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
