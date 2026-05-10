@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="github-stats-card-one.vercel.app/api/stats?username=d-suyal" alt="GitHub Contribution Stats" />
+  <img src="https://github-stats-card-one.vercel.app/api/stats?username=d-suyal" alt="GitHub Contribution Stats" />
 </p>
 
 <p align="center">
