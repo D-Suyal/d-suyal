@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-suyal&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
+  <img src="github-stats-card-one.vercel.app/api/stats?username=d-suyal" alt="GitHub Contribution Stats" />
 </p>
 
 <p align="center">
