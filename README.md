@@ -3,8 +3,7 @@
 </div>
 
 <p align="center">
-  Founding Product Engineer&nbsp;@&nbsp;<b>Sentry Labs</b>&nbsp;&nbsp;&middot;&nbsp;&nbsp;Prev. Founding Engineer&nbsp;@&nbsp;<b>Kalam Labs (YC S21)</b><br/>
-  Backend &nbsp;&middot;&nbsp; Embedded Firmware &nbsp;&middot;&nbsp; Drone Systems &nbsp;
+  Backend, Simulation & UAV Systems | Building Across Software + Hardware
 </p>
 
 <p align="center">
@@ -16,13 +15,6 @@
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=d-suyal&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-suyal&layout=compact&theme=github_dark&hide_border=true&count_private=true&langs_count=8" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-suyal&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
 </p>
@@ -33,10 +25,6 @@
 
 ---
 
-### About
-
-I build end-to-end systems across the full stack, from microservices handling **10k+ MAU**, to embedded firmware running on custom flight controllers at **100,000 ft**. Currently architecting an indigenous **Space Situational Awareness** platform for the Indian Air Force while commercializing ESP32 drone/plane kits with in-house hardware.
-
 <p>
   <img src="https://img.shields.io/badge/10k%2B_MAU-shipped-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/%E2%89%88%E2%82%B920L_MRR-driven-58A6FF?style=flat-square" />
@@ -44,26 +32,6 @@ I build end-to-end systems across the full stack, from microservices handling **
   <img src="https://img.shields.io/badge/100%2C000_ft-UAV_deployed-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/50k%2B_downloads-10%2B_titles-58A6FF?style=flat-square" />
 </p>
-
----
-
-### 🔭 Currently Building
-
-- **Space Situational Awareness Platform** — Indigenous proposal for the Indian Air Force; surveillance, conjunction analysis, collision detection, manoeuvre detection & re-entry analysis  
-  `Java 21` `Orekit` `Spring Boot` `PostgreSQL` `RabbitMQ` `Redis` `React` `TypeScript` `CesiumJS`
-
----
-
-### 💼 Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| Founding Product Engineer | Sentry Labs | Jul 2025 – Present |
-| Founding Engineer | Kalam Labs (YC S21) | Mar 2021 – Jun 2025 |
-| Game Developer | Elixar Systems | Jan 2020 – Feb 2021 |
-| Game Developer | Inept Studio | Sep 2018 – Dec 2019 |
-
----
 
 ### 🛠 Stack
 
@@ -105,8 +73,8 @@ I build end-to-end systems across the full stack, from microservices handling **
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| **SSA Platform** | Java 21, Orekit, Spring Boot, CesiumJS | IAF proposal — surveillance, conjunction & re-entry analysis |
-| **ESP32 Drone / Plane** | C, FreeRTOS, ESP32, BMI270 | In-house FC + firmware + Android/iOS controller apps |
+| **SSA Platform** | Java 21, Orekit, Spring Boot, CesiumJS | surveillance, conjunction & re-entry analysis |
+| **ESP32 Drone / Plane** | C, FreeRTOS, ESP32, BMI270 | FC + firmware + Android/iOS controller apps |
 | **Kalam Labs Platform** | NestJS, TypeScript, PostgreSQL, Unity | EdTech metaverse; 10k+ MAU, ≈₹20L MRR |
 | **ArduPilot UAV Retrieval** | Lua, ArduPilot, Gazebo | Autonomous return-home; dynamic waypointing vs. wind/battery |
 | **Hyper-Casual Titles** | Unity, C# | 10+ titles; 50k+ cumulative downloads |
